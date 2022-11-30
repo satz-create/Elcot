@@ -14,5 +14,17 @@ System.out.println("method2");
 		// TODO Auto-generated method stub
 System.out.println("method3");
 	}
+	private void method4() {
+		// TODO Auto-generated method stub
+System.out.println("method4");
+	}
+	private void method5() {
+		// TODO Auto-generated method stub
+System.out.println("method5");
+	}
+	private void method6() {
+		// TODO Auto-generated method stub
+System.out.println("method6");
+	}
 
 }
